@@ -582,7 +582,7 @@ button div:active span {
 
 footer .img_footer {
 	height: 250px;
-    background: url(../img/footer.png) center bottom; 
+    background: url(../img/footer2.png) center bottom; 
 	background-size: cover;
 }
 
@@ -718,6 +718,8 @@ footer .content_footer {
 }
 
 #modal_shadow .modal h3 {
+	/*position: absolute;
+	top: 50%;*/
 	padding-top: 130px;
 	font-family: 'Abel', sans-serif;
 	margin: 0 auto;
