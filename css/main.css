@@ -301,7 +301,7 @@ p.paragraph {
 }
 
 #imgFirst {
-	background: url(../img/bg1.jpg) center center no-repeat / cover;
+	background: url(../img/bg1.jpg) center center content-box;
 	height: 500px;
 	background-attachment: fixed;
 	z-index: 1;
@@ -340,19 +340,19 @@ p.paragraph {
 }
 
 #imgSecond {
-	background: url(../img/bg2.jpg) center center no-repeat / cover;
+	background: url(../img/bg2.jpg) center center content-box;
 	height: 300px;
 	background-attachment: fixed;
 }
 
 #imgThird {
-	background: url(../img/bg3.jpg) center center no-repeat / cover;
+	background: url(../img/bg3.jpg) center center content-box;
 	height: 400px;
 	background-attachment: fixed;
 }
 
 #imgFourth {
-	background: url(../img/bg4.jpg) center center no-repeat / cover;
+	background: url(../img/bg4.jpg) center center content-box;
 	height: 500px;
 	background-attachment: fixed;
 }
